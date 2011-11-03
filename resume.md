@@ -1,82 +1,98 @@
-# Nathaniel Welch
+# Bronson Tubb
 
- * <nat@natwelch.com>
- * <http://natwelch.com>
- * 707-799-8675
+Orlando, FL | 407.927.2606 | <bronson.tubb@gmail.com> |  [bronsontubb.com](http://bronsontubb.com) | [@bigtubb](http://twitter.com/bigtubb) 
 
-## Background
+## Career Objective
 
-I am a current student of Computer Science at Cal Poly with an interest in communication and design. I am a big believer in experimenting with new things to expand my knowledge both professionally and recreationally. I strive to be a quick learner and both a competent leader and capable worker. I am an Eagle Scout and was an active officer of the Cal Poly Linux Users Group for three years. I was awarded Cal Poly's Residence Hall Council member of the year for both 2006 and 2007. In my free time I enjoy contributing to open source projects, hiking, reading and listening to music.
+To engage with the appropriate team in order to capitalize on my knowledge, skill set, and experience to achieve the goal of developing and harnessing world class software and enabling software services.
 
-## Education
-
-Computer Science, B.S.  
-Fall 2006 - Spring 2011  
-California Polytechnic State University, San Luis Obispo  
-
-## Systems Proficiency
-
-**Programming Languages**
-
- > Proficient in:  PHP, Ruby, SML/NJ, HTML, CSS, JavaScript, C, Java, SQL (MySQL, SQLite), Bash
-
- > Experience with: F#, Python, C++, MongoDB
-
-**Software**
-
- > I have experience using most modern development tools including Eclipse, Vim, Git and SVN. I have been using Linux for both personal and server use since 2002. I am also capable of using the majority of the Adobe Creative Suite.
 
 ## Experience
 
-### Punchd & Google.com, Mountain View, CA
+### Ernst & Young, LLP
+##### Staff Auditor IAAS/TSRS (2000 - 2001)
 
-#### Software Engineer - May 2011 to present
+### Rotech Healthcare, Orlando FL
+#### IS Developer & bConnected Administrator (2001-2002) | Database Administrator (2002-2003)
+Coldfusion & Perl, Purchasing systems administration, Informix & Oracle DBA
 
-I was [Punchd](http://getpunchd.com)'s backend and operations engineer until we were acquired by Google in July 2011. At Google I have been working on merging Google's scale with Punchd's ingenuity and speed to help redefine loyalty.
+#### ERP System Administrator (2003-2004)
+Lawson Environment and Applications Version 7 to Version 8 upgrade, along with AIX 4.3.3 to AIX 5.1 and Informix IDS 7.31 to Informix IDS 9.4
+
+#### IT Manager (2004-2005) 
+Responsible for DBAs, Web Developers, bConnected & Lawson Administrators
+
+#### Director of IS Projects, Systems Group (2005-2006)
+Responsible for In-House Web, Lawson, bConnected & Database systems development and management.  Directed the efforts of eight developers and designers, four DBAs and various other technical engineers.  Coordinated the recruiting activities for the Systems Group
+
+Accomplishments include the deployment of an ESB (Enterprise Service Bus) allowing systems both old and new to extend functionality perviously impractical by harnessing this and other service based technologies.  Deployed the first publicly known production instance of Oracle 10g RAC on Apple Mac OS X Server, featured on Apple's IT Pro web site.
+
+### Connextions, Orlando FL
+#### IT Director (2006-2009)
+Overhaul of IT at Connextions & management of active development efforts
+
+#### Vice President of IT (current)
+Accountable for all things IT and telephony including operational modeling/reengineering, the management of 40  and coordination of all technical recruitment at Connextions.
+
+**Tactical responsibilities**
+> Telecom
+* Network Services
+* System Administration
+* Database Administration
+* Call Center IT - 4 sites
+* Desktop Support
+* Help Desk
+* Offshore Development Contracting and Implementation
+* IT Compliance (ISO, PCI, numerous client Info Sec audits)
+* RFP Responses (Technical)
+* Sales/Engagement Engineering & Delivery
+* SLA reporting
+* IT Procurement and Vendor management
+
+**Technology planning, strategy, and architecture**
+> Capability & Capacity Planning and Blueprinting
+* Technology Road-mapping
+* Merger and Acquisitions Due Diligence
+* System Decommission Planning
+* System Architecture
+* Information Architecture
+
+**Accomplishments**
+> Asterisk integrated with Avaya (SIP trunking) enabling 1500 call center agents at a cost saving of $3M
+* Call center build-outs.  Four 800  seat facilities in NC and IN
+* Colocation build-outs for bConnected SaaS hosting.  Two facilities with CenturyLink in Denver and Tampa
+* Redundant MPLS WAN deployment across all call center and coo sites
+* SimpleCTI - A RoR based, HTTP CTI bridge for Aspect telephony completed in 2007, Asterisk added in 2010
+* Lawson ERP implementation to replace quickbooks
+* Lead technical response for 2011 Optum acquisition due diligence 
+* Operational responsibility for bConnected deployment in use by 6 of 7 major health plans, supplanting Siebel & Salesforce.com
 
 
-### iFixit.com, San Luis Obispo CA
+## Skills
 
-#### Software Developer - April 2009 to April 2011
+I possess strong enterprise systems skills. I have recruited and managed strong teams of people to help develop, implement, and support systems that I have designed. The application of these systems are broad and varied and include medical billing, EDI, B2B, CRM, dashboard, performance measurement and improvement, commissions, time and expense, and inventory.
 
-I wear a variety of hats including -- but not limited to -- writing code to promote high quality content and a stable community, helping keep servers afloat, and working with users to develop content. I write code mainly in PHP and Bash, and almost all of our servers are on Amazon's EC2 Service. 
+I have also managed large implementations and ongoing support of the Lawson ERP system including GL,Payroll,HR, and Fixed Assets. In addition, I have implemented and installed several data warehouses used to enable business intelligence aspects of mining enterprise data to enable derivative revenue streams. I have experience with Oracle, Informix, MySQL and MS SQL Server.
 
- * Helped create a site-wide reputation community, which began with [iFixit.com/Answers](http://ifixit.com/Answers)
- * Helped maintain various servers, located on Amazon EC2, and local development machines
- * Developed the first JavaScript widget for iFixit's API.
- * Redefined iFixit's developer work flow
+I have deployed a full service ESB (enterprise service bus) and directed development harnessing technologies like SOA (service oriented architecture), AJAX (asynchronous JavaScript and XML) and MVC (Model-View-Controller) frameworks. I am excited about and committed to emerging technologies that allow for a very structured approach to team development of enterprise, carrier grade software that is well documented, scalable, maintainable, and provides the end user with an interface that allows for the delivery of a desktop quality user experience over a common browser that works irrespective of the users operating platform.  The response from our user community has been overwhelmingly positive.
 
-### Adobe Systems Incorporated, San Francisco CA
+During my tenure at Connextions, I have been an integral part of the management team, and as such, have been with the company through many pivotal phases of its’ growth.  I joined Connextions in 2006 when they were a small fulfillment and customer support outsourcer.  I was present as the company was acquired by New Mountain Capital in 2006 and grew explosively year over year, expanding from a single Orlando campus to six sites in four states.  In recent past, Connextions was acquired by Optum, a UnitedHealth Group company.  I have learned a great deal through each of these phases and as a result I feel that I am a much more astute technology & business professional.  
 
-#### Dreamweaver Quality Engineering Intern - Summer 2007 and 2008
+Throughout my career I have had a few successes and a couple of loses; I learned the most from the loses.
 
- * Tested both daily builds and released versions of Dreamweaver against various operating systems -- including Mac OSX 10.4, Mac OSX 10.5, Windows Vista, and Windows XP.
- * Helped maintain the Server Matrix, Bug-base, and test a new test case application
- * Helped develop and test the Web Widgets Feature for Dreamweaver CS4, which won the "Dreamweaver Community Feature of the Year" award in 2008.
+## Proficiency
+ * Experience with Perl, Coldfusion, HTML, CSS, JavaScript (basic), SQL, bash, sed & awk, expect
+ * Comfortable with Adobe Suite, git, svn, Amazon S3/CloudFront, Jira & Confluence
+ * Familiar with PHP, Ruby on Rails, Amazon EC2 
+ * Administration of AIX, Solaris & Linux servers and database systems including MySQL, Informix & Oracle
 
-<!--
-### California Polytechnic State University, San Luis Obispo CA
 
-#### Computer Science Lab Monitor - September 2006 to June 2007
+## Education
 
- * Maintained printers and computers for seven labs.
+University of Florida - BS & MS Accounting 2000 with Honors
 
-### Sonoma County Information Systems Department, Santa Rosa CA
 
-#### Intern
-
-##### June 2005 to Sept. 2005
- 
- * Built and maintained three separate websites, one dealing with unions, one system uptime web application, and one error reporting web form.
--->
-
-### BSA Camp Oljato, Lakeshore CA
-
-#### Nature Director - Summer 2006
-#### Camp Counselor - Summer 2002, 2003 and 2004
-
- * In charge of four staff members and responsible for planning the activities behind and maintaining the entire Nature area at camp, with an average of about 200 kids every week for seven weeks.
- * Updated and revised the Forest Management Plan and organized conservation projects throughout camp.
- * Took care of children ages ten to eighteen and responsible for creating and planning daily schedules for my classes.
- * Taught merit badge classes such as wilderness survival, camping, hiking, and others.
-
+## Noteworthy
+* Apple Certified Trainer
+* Speaker, Macworld 2009, "Effective Access Controls with Directories, Services and Sharepoints"
+  * <http://www.slideshare.net/bigtubb>
